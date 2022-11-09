@@ -1,0 +1,9 @@
+{
+    "keyboard_name": "Onekey STM32H7B0",
+    "processor": "STM32H7B0",
+    "bootloader": "stm32-dfu",
+    "matrix_pins": {
+        "cols": ["C13"],
+        "rows": ["A1"]
+    }
+}
